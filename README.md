@@ -1,10 +1,9 @@
 
 ### Hi Developers 👋
 
-[![YouTube Badge](https://img.shields.io/badge/YouTube-DeveloperFunnel-red)](https://www.youtube.com/developerfunnel)
-[![Linkedin Badge](https://img.shields.io/badge/-Aakash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](https://www.linkedin.com/in/abid-rather-382129185/)
-[![Website Badge](https://img.shields.io/badge/WebSite-Aakash-green)](https://www.abid)
-[![Website Badge](https://img.shields.io/badge/StackOverflow-Aakash-yellow)](https://stackoverflow.com/users/18253630/19-abid-naseer)
+[![Linkedin Badge](https://img.shields.io/badge/-Aabid-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](https://www.linkedin.com/in/abid-rather-382129185/)
+[![Website Badge](https://img.shields.io/badge/WebSite-Aabid-green)](https://www.abid)
+[![Website Badge](https://img.shields.io/badge/StackOverflow-Aabid-yellow)](https://stackoverflow.com/users/18253630/19-abid-naseer)
 
 I'm
 Full Stack Web Developer
